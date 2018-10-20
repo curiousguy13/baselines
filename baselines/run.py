@@ -2,6 +2,7 @@ import sys
 import multiprocessing
 import os.path as osp
 import gym
+import gym_ple
 from collections import defaultdict
 import tensorflow as tf
 import numpy as np
